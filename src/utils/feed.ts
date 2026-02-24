@@ -69,8 +69,13 @@ async function fixRelativeImagePaths(htmlContent: string, baseUrl: string, postP
               width: 800
             })
 
-            // Always use the optimized image path in production
-            img.setAttribute('src', new URL(processedImage.src, baseUrl).toString())
+            // Strip Netlify image optimization wrapper, use the raw _astro path
+            let src = processedImage.src
+            if (src.includes('/.netlify/images')) {
+              const urlParam = new URL(src, baseUrl).searchParams.get('url')
+              src = urlParam ? `/${decodeURIComponent(urlParam)}` : src
+            }
+            img.setAttribute('src', new URL(src, baseUrl).toString())
           }
         } catch (error) {
           console.error(`[Feed] Image processing failed: ${src} -> ${resolvedPath}`, error)
