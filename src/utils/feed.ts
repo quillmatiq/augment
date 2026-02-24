@@ -1,5 +1,4 @@
 import type { APIContext, ImageMetadata } from 'astro'
-import { getImage } from 'astro:assets'
 import { getCollection, type CollectionEntry } from 'astro:content'
 import { Feed } from 'feed'
 import MarkdownIt from 'markdown-it'
@@ -62,20 +61,12 @@ async function fixRelativeImagePaths(htmlContent: string, baseUrl: string, postP
             const imageUrl = new URL(relativePath, baseUrl).toString()
             img.setAttribute('src', imageUrl)
           } else {
-            // Production environment: use getImage optimization
-            const processedImage = await getImage({
-              src: metadata,
-              format: 'webp',
-              width: 800
-            })
-
-            // Strip Netlify image optimization wrapper, use the raw _astro path
-            let src = processedImage.src
-            if (src.includes('/.netlify/images')) {
-              const urlParam = new URL(src, baseUrl).searchParams.get('url')
-              src = urlParam ? `/${decodeURIComponent(urlParam)}` : src
-            }
-            img.setAttribute('src', new URL(src, baseUrl).toString())
+            // Avoids Netlify image optimization URLs which are access-restricted
+            const imageSrc = metadata.src
+            const imageUrl = imageSrc.startsWith('http')
+              ? imageSrc
+              : `${baseUrl}${imageSrc.startsWith('/') ? '' : '/'}${imageSrc}`
+            img.setAttribute('src', imageUrl)
           }
         } catch (error) {
           console.error(`[Feed] Image processing failed: ${src} -> ${resolvedPath}`, error)
