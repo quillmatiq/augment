@@ -8,6 +8,11 @@
   to = "/_astro/:splat"
   status = 200
 
+[[redirects]]
+  from = "/rss"
+  to = "/rss.xml"
+  status = 301
+
 # Enable Brotli Compression
 [build.processing]
   skip_processing = false
