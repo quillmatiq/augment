@@ -3,7 +3,7 @@ import type { ThemeConfig } from './types'
 export const themeConfig: ThemeConfig = {
   // SITE INFO ///////////////////////////////////////////////////////////////////////////////////////////
   site: {
-    website: 'https://augment.ink/', // Site domain
+    website: 'https://stalwart-lamington-32b5ec.netlify.app/', // Site domain
     title: 'augment', // Site title
     author: 'Anuj Ahooja', // Author name
     description: 'A blog by Anuj Ahooja', // Site description
