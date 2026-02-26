@@ -51,7 +51,7 @@ When I say we need to separate the data, I mean your account needs to be complet
 ### The Everything Account
 
 This brings us back to our original ideal model once again:
-![]("./_assets/Screenshot_20260116_101332_Samsung-Notes-1.jpg")
+![](./_assets/Screenshot_20260116_101332_Samsung-Notes.jpg)
 Here, our account and its data are free from the shackles of an Everything App. Instead, the account lives on its own, granting access to apps of our choosing. When App 1 no longer serves its purpose, we simply sign in to App 2 or App 3 and grant them permission to modify our data. Or we can use all three based on our needs because the apps no longer dictate how we use our account.
 
 This account, which can use everything, is what I've been calling "The Everything Account". It's a future where people have power over their app experience. No single company owns the account or its data, and, more importantly, we get to choose where it lives, can change where it lives when we want, and choose which apps get to use it.
