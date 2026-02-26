@@ -2,8 +2,8 @@
 title: 'About'
 ---
 
-Hi, I'm Anuj Ahooja. You may know me as [@quillmatiq](https://quillmatiq.com/) across the open social web.
+Hi, I'm Anuj Ahooja. You may know me as @quillmatiq on the [Atmosphere](https://bsky.app/profile/quillmatiq.com) and [Fediverse](https://mastodon.social/@quillmatiq), or from my work at [A New Social](https://anew.social).
 
-This blog is a space where I write essays about technology, mostly focused on the open social web and the human internet.
+augment is a space where I write essays about technology, mostly focused on the open social web and the human internet.
 
-If you're interested in keeping up, you can subscribe to it via email, rss, or (soon!) on atproto via standard.site.
+You can subscribe via [email](https://buttondown.com/augment), [rss](/rss), [atproto](), or [activitypub]().
