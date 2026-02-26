@@ -103,4 +103,4 @@ But what Meta is trying to do will require a bit more of a leap. The kind of lea
 
 Perhaps Google Glass leapt too far too early. But if there’s a company I think can find something in between that and the Ray-Bans, I’m now convinced it’s Meta.
 
-*Thank you for reading! I'll be continuing to post about my journey with the Ray-Ban Metas on *[*Threads*](https://www.threads.net/quillmatiq)* so follow me there if you're interested or have any questions for me. And if you want to be notified of future issues of augment, you can *[*subscribe here for free*](https://augment.ink/#/portal/)*!*
+*Thank you for reading! I'll be continuing to post about my journey with the Ray-Ban Metas on *[*Threads*](https://www.threads.net/quillmatiq)* so follow me there if you're interested or have any questions for me. And if you want to be notified of future issues of augment, you can *[*subscribe here for free*](https://buttondown.com/augment)*!*

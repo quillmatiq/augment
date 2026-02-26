@@ -76,4 +76,4 @@ I'm not even close to burnt out; I'm fired up 🔥
 
 See you a few weeks!
 
-*Thank you for reading! You can follow me on the social web on *[*Threads*](https://www.threads.net/quillmatiq?ref=augment.ink)* and *[*Mastodon*](https://mastodon.social/@quillmatiq?ref=augment.ink)*. And if you want to be notified of future issues of augment and my newsletter "Human-Generated Content," you can *[*follow on RSS*](https://augment.ink/rss/)* or *[*subscribe here for free*](https://augment.ink/the-threads-creator-paradox/#/portal/)*!*
+*Thank you for reading! You can follow me on the social web on *[*Threads*](https://www.threads.net/quillmatiq?ref=augment.ink)* and *[*Mastodon*](https://mastodon.social/@quillmatiq?ref=augment.ink)*. And if you want to be notified of future issues of augment and my newsletter "Human-Generated Content," you can *[*follow on RSS*](https://augment.ink/rss/)* or *[*subscribe here for free*](https://buttondown.com/augment)*!*

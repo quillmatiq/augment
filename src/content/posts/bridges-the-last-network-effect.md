@@ -109,4 +109,4 @@ Every platform has a mix of communities, and I can promise from experience that 
 
 Let's build bridges so you can find yours.
 
-*Thank you for reading! You can follow me on the open social web on [Bluesky](https://bsky.app/profile/quillmatiq.bsky.social?ref=augment.ink), [Mastodon](https://mastodon.social/@quillmatiq?ref=augment.ink), and [Threads](https://www.threads.net/quillmatiq?ref=augment.ink). And if you want to be notified of future posts on augment, including my newsletter "Human-Generated Content," you can [follow on RSS](https://augment.ink/rss/) or [subscribe here for free](https://augment.ink/human-generated-content-8/#/portal/)!*
+*Thank you for reading! You can follow me on the open social web on [Bluesky](https://bsky.app/profile/quillmatiq.bsky.social?ref=augment.ink), [Mastodon](https://mastodon.social/@quillmatiq?ref=augment.ink), and [Threads](https://www.threads.net/quillmatiq?ref=augment.ink). And if you want to be notified of future posts on augment, including my newsletter "Human-Generated Content," you can [follow on RSS](https://augment.ink/rss/) or [subscribe here for free](https://buttondown.com/augment)!*

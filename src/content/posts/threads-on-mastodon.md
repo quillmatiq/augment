@@ -115,4 +115,4 @@ After seeing the already-rich ecosystem of third-party clients - many of whom se
 
 Honestly, though - would lists *really* be that bad, Meta?
 
-*Thank you for reading! I'll be continuing to post about the Threads and the Fediverse on *[*Threads*](https://www.threads.net/quillmatiq)* and *[*Mastodon*](https://mastodon.social/@quillmatiq)* so follow me there if you're interested or have any questions for me. And if you want to be notified of future issues of augment, you can *[*follow on RSS*](https://augment.ink/rss/)* or *[*subscribe here for free*](https://augment.ink/#/portal/)*!*
+*Thank you for reading! I'll be continuing to post about the Threads and the Fediverse on *[*Threads*](https://www.threads.net/quillmatiq)* and *[*Mastodon*](https://mastodon.social/@quillmatiq)* so follow me there if you're interested or have any questions for me. And if you want to be notified of future issues of augment, you can *[*follow on RSS*](https://augment.ink/rss/)* or *[*subscribe here for free*](https://buttondown.com/augment)*!*

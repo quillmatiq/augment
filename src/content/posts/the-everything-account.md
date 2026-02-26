@@ -112,4 +112,4 @@ I'm sure I've forgotten numerous gems, so please reach out if I did, and I'll be
 
 ---
 
-*Thank you for reading! You can follow me on *[*the Atmosphere*](https://bsky.app/profile/quillmatiq.com)* or *[*the Fediverse*](https://mastodon.social/@quillmatiq)*. And if you want to be notified of future issues of augment, you can *[*follow on RSS*](https://augment.ink/rss/)* or *[*subscribe here for free*](https://augment.ink/human-generated-content-9/#/portal/)*!*
+*Thank you for reading! You can follow me on *[*the Atmosphere*](https://bsky.app/profile/quillmatiq.com)* or *[*the Fediverse*](https://mastodon.social/@quillmatiq)*. And if you want to be notified of future issues of augment, you can *[*follow on RSS*](https://augment.ink/rss/)* or *[*subscribe here for free*](https://buttondown.com/augment)*!*

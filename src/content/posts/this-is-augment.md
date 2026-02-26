@@ -9,4 +9,4 @@ You're likely here because you saw me posting on [Threads](https://www.threads.n
 
 augment is a blog / newsletter by me, Anuj Ahooja. I'll be using this space for longer-form content. A place to review gadgets and apps I'm using, commentary on social media and technology, and some occasional personal updates.
 
-If you want to follow along, you can [subscribe here](https://augment.ink/#/portal/) for email updates. There's also an [RSS feed](https://augment.ink/rss/) if you're like me and are into that.
+If you want to follow along, you can [subscribe here](https://buttondown.com/augment) for email updates. There's also an [RSS feed](https://augment.ink/rss/) if you're like me and are into that.

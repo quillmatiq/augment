@@ -15,6 +15,7 @@ import { themeConfig } from './src/config'
 import { imageConfig } from './src/utils/image-config'
 import path from 'path'
 import netlify from '@astrojs/netlify'
+import rehypeExternalLinks from 'rehype-external-links';
 
 export default defineConfig({
   adapter: netlify(), // Set adapter for deployment, or set `linkCard` to `false` in `src/config.ts`
@@ -31,7 +32,13 @@ export default defineConfig({
       wrap: false
     },
     remarkPlugins: [remarkMath, remarkDirective, remarkEmbeddedMedia, remarkReadingTime, remarkTOC],
-    rehypePlugins: [rehypeKatex, rehypeCleanup, rehypeImageProcessor, rehypeCopyCode]
+    rehypePlugins: [
+      rehypeKatex,
+      rehypeCleanup,
+      rehypeImageProcessor,
+      rehypeCopyCode,
+      [rehypeExternalLinks, { target: '_blank', rel: ['nofollow'] }]
+    ]
   },
   integrations: [
     playformInline({

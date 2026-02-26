@@ -57,4 +57,4 @@ Oh, and while I have you: A New Social just launched [a Patreon](https://www.pat
 
 Until next time 👋🏼
 
-*Thank you for reading! You can follow me on the social web on *[*Bluesky*](https://bsky.app/profile/quillmatiq.com?ref=augment.ink)*, *[*Mastodon*](https://mastodon.social/@quillmatiq?ref=augment.ink)*, and *[*Threads*](https://www.threads.net/quillmatiq?ref=augment.ink)*. And if you want to be notified of future issues of augment and my newsletter "Human-Generated Content," you can *[*follow on RSS*](https://augment.ink/rss/)* or *[*subscribe here for free*](https://augment.ink/human-generated-content-8/#/portal/)*!*
+*Thank you for reading! You can follow me on the social web on *[*Bluesky*](https://bsky.app/profile/quillmatiq.com?ref=augment.ink)*, *[*Mastodon*](https://mastodon.social/@quillmatiq?ref=augment.ink)*, and *[*Threads*](https://www.threads.net/quillmatiq?ref=augment.ink)*. And if you want to be notified of future issues of augment and my newsletter "Human-Generated Content," you can *[*follow on RSS*](https://augment.ink/rss/)* or *[*subscribe here for free*](https://buttondown.com/augment)*!*
