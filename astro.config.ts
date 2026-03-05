@@ -7,6 +7,7 @@ import remarkDirective from 'remark-directive'
 import rehypeKatex from 'rehype-katex'
 import remarkEmbeddedMedia from './src/plugins/remark-embedded-media.mjs'
 import remarkReadingTime from './src/plugins/remark-reading-time.mjs'
+import remarkFlexibleMarkers from 'remark-flexible-markers';
 import rehypeCleanup from './src/plugins/rehype-cleanup.mjs'
 import rehypeImageProcessor from './src/plugins/rehype-image-processor.mjs'
 import rehypeCopyCode from './src/plugins/rehype-copy-code.mjs'
@@ -31,7 +32,14 @@ export default defineConfig({
       theme: 'css-variables',
       wrap: false
     },
-    remarkPlugins: [remarkMath, remarkDirective, remarkEmbeddedMedia, remarkReadingTime, remarkTOC],
+    remarkPlugins: [
+      remarkMath,
+      remarkDirective,
+      remarkEmbeddedMedia,
+      remarkReadingTime,
+      remarkTOC,
+      () => (tree) => { console.log('remark running'); return tree; },
+      remarkFlexibleMarkers],
     rehypePlugins: [
       rehypeKatex,
       rehypeCleanup,
