@@ -1,6 +1,7 @@
 ---
 title: The Everything Account
 pubDate: 2026-02-04T18:57:50.000Z
+image: ./_assets/Screenshot_20260204_121413_Samsung-Notes.jpg
 tags: at protocol, atmosphere, atproto, bluesky, open social web, social media, social web, blacksky
 ---
 
