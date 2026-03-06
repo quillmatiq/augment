@@ -1,0 +1,15 @@
+{
+  "siteUrl": "https://augment.ink",
+  "contentDir": "./src/content/posts",
+  "imagesDir": "./public/assets",
+  "outputDir": "./dist",
+  "publicationUri": "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.publication/3mgfwckliwc2m",
+  "pdsUrl": "https://pds.quillmatiq.com",
+  "frontmatter": {
+    "publishDate": "pubDate",
+    "coverImage": "image"
+  },
+  "bluesky": {
+    "enabled": true
+  }
+}
