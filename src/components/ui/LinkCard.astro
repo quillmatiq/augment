@@ -48,6 +48,7 @@
       const image =
         doc.querySelector('meta[property="og:image"]')?.getAttribute('content') ||
         doc.querySelector('meta[name="twitter:image"]')?.getAttribute('content') ||
+        doc.querySelector('meta[name="image"]')?.getAttribute('content') ||
         ''
 
       const imageAlt = doc.querySelector('meta[property="og:image:alt"]')?.getAttribute('content') || title || ''
