@@ -3,7 +3,6 @@ title: Patreon Belongs in the Fediverse
 pubDate: 2024-06-03T20:31:55.000Z
 tags: patreon, threads, activitypub, fediverse, social media, creator economy
 description: Patreon needs to become Threads before Threads become Patreon.
-atUri: "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgnqrfgn2s2m"
 ---
 
 There's a famous quote by Reed Hastings, former CEO of Netflix, that always sticks with me:

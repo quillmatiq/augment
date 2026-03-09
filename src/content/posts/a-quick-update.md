@@ -1,7 +1,6 @@
 ---
 title: A Quick Update
 pubDate: 2024-09-30T22:17:49.000Z
-atUri: "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgnqrdppas2m"
 ---
 
 Hi folks!

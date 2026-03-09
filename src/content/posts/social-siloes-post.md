@@ -3,7 +3,6 @@ title: "Social Silos: On Post, Artifact, and the future of closed networks"
 pubDate: 2024-04-19T21:36:19.000Z
 tags: activitypub, fediverse, mastodon, social media, threads
 description: I think Post's greatest miss was not interoperating with complementary products like Flipboard, Artifact, WordPress, Medium, and Ghost to build out a cross-platform network of creators, curators, and consumers.
-atUri: "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgnqrgdzik2m"
 ---
 
 Today, the social platform [Post](https://post.news/) announced [its official closure](https://post.news/@/noam/2fJw4PYRFjya343RpiToiyEQr0x). While it may not have received the excitement you see behind other similar services, it was clear that the team was deeply interested in what a post-Twitter world could look like for journalism. The service had a lot going for it: microtransactions to read single-serve paywalled content, topic tags right out the gate, and a polished user experience - especially for a product so new.

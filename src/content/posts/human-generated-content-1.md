@@ -3,7 +3,6 @@ title: Human-Generated Content 1
 pubDate: 2024-05-23T16:43:24.000Z
 tags: human generated content, activitypub, fediverse, social media, llm, google gemini, google i/o, youtube
 description: This issue, Nilay Patel talks to Google's Sundar Pichai on AI, chriswaves and Mike Masnick each explore the managed decline of the web, and Molly White and Mike McCue chat about building a new web inspired by the old one.
-atUri: "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgnqrfyak22m"
 ---
 
 Hello! Welcome to the first issue of Human-Generated Content!

@@ -1,7 +1,6 @@
 ---
 title: "POV: Ray-Ban Meta Smart Glasses"
 pubDate: 2024-03-08T16:45:55.000Z
-atUri: "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgnqrgrwsk2m"
 ---
 
 Every once in a while I use a device that reminds me how delightful technology can be when it fades into the background until you need it. And when it's not there you wonder why you didn't bring it along in the first place.

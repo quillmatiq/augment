@@ -3,7 +3,6 @@ title: Ghost is about to beat Substack in Discoverability
 pubDate: 2024-04-22T22:33:07.000Z
 tags: activitypub, fediverse, social media, ghost, newsletter, threads, mastodon
 description: Ghost's Fediverse integration will have larger implications for the newsletter landscape. Namely, I think this will eventually bring the slow death of another social silo, Substack.
-atUri: "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgnqrg65yk2m"
 ---
 
 Ghost just announced that they'll be joining the Fediverse. I'm obviously very excited about it and if you want a deep dive into the features they'll be rolling out, I wrote about all of them in [my debut piece for We Distribute](https://wedistribute.org/2024/04/ghost-implements-activitypub/).

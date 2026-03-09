@@ -2,7 +2,6 @@
 title: Bridges & The Last Network Effect
 pubDate: 2024-11-08T20:48:47.000Z
 tags: open social web, social media, social web, activitypub, at protocol, bluesky, fediverse, ghost, flipboard, mastodon, threads, x
-atUri: "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgnqrda3as2m"
 ---
 
 ![Schwetzingen, Germany, Schwetzingen Castle gardens: The so-called Chinese bridge or Palladio bridge, seen from east by north-east over the canal. The sparse greenery shows that it is spring.](./_assets/Schwetzingen_-_Schlossgarten_-_Chinesische_Br-cke_von_NO_1.jpg)© [Roman Eisele](https://commons.wikimedia.org/wiki/User:Aristeas) / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) via [Wikimedia Commons](https://commons.wikimedia.org/)
