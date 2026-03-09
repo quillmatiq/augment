@@ -5,7 +5,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "astro dev",
-    "prebuild": "sequoia publish && pnpm exec tsx scripts/toggle-proxy.ts",
+    "prebuild": "sequoia sync && sequoia publish && pnpm exec tsx scripts/toggle-proxy.ts",
     "build": "pnpm run prebuild && astro build",
     "postbuild": "sequoia inject",
     "preview": "astro preview",
