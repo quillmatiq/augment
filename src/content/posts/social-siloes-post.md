@@ -1,7 +1,12 @@
 ---
 title: "Social Silos: On Post, Artifact, and the future of closed networks"
 pubDate: 2024-04-19T21:36:19.000Z
-tags: activitypub, fediverse, mastodon, social media, threads
+tags:
+  - activitypub
+  - fediverse
+  - mastodon
+  - social media
+  - threads
 description: I think Post's greatest miss was not interoperating with complementary products like Flipboard, Artifact, WordPress, Medium, and Ghost to build out a cross-platform network of creators, curators, and consumers.
 ---
 

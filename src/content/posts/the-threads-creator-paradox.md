@@ -1,7 +1,11 @@
 ---
 title: The Threads Creator Paradox
 pubDate: 2024-07-12T18:45:41.000Z
-tags: threads, social media, fediverse, creator economy
+tags:
+  - threads
+  - social media
+  - fediverse
+  - creator economy
 ---
 
 It's been just over a year since Meta launched Threads, a microblogging platform built upon Instagram's foundation. While still in its infancy, the team has quickly added features that present itself as a viable alternative to its contemporaries, the most important being a [TweetDeck-like desktop UI](https://www.theverge.com/2024/5/30/24168059/threads-tweetdeck-style-redesign-rollout).

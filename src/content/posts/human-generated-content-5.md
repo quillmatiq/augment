@@ -1,7 +1,14 @@
 ---
 title: If You Can't Beat'em - Human-Generated Content #5
 pubDate: 2024-07-18T18:47:48.000Z
-tags: human generated content, generative-ai, chatgpt, llm, newsletter, openai, fediverse
+tags:
+  - human generated content
+  - generative-ai
+  - chatgpt
+  - llm
+  - newsletter
+  - openai
+  - fediverse
 description: Human Generated Content, Issue 5
 ---
 

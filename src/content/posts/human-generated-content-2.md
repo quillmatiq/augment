@@ -2,7 +2,15 @@
 title: Human-Generated Content 2
 pubDate: 2024-06-06T18:37:46.000Z
 date_updated: 2024-06-06T18:37:46.000Z
-tags: human generated content, fediverse, generative-ai, activitypub, chatgpt, social media, openai, llm
+tags:
+  - human generated content
+  - fediverse
+  - generative-ai
+  - activitypub
+  - chatgpt
+  - social media
+  - openai
+  - llm
 description: Publishers are seeing two very different futures for their businesses. Is the future of media aggregated and summarized or is it direct-to-audience?
 ---
 

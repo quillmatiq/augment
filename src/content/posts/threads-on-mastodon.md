@@ -1,7 +1,13 @@
 ---
 title: Threads on Mastodon and The Bright Future of the Fediverse
 pubDate: 2024-04-10T19:15:08.000Z
-tags: threads, mastodon, social media, activitypub, fediverse, phanpy
+tags:
+  - threads
+  - mastodon
+  - social media
+  - activitypub
+  - fediverse
+  - phanpy
 description: This is my journey that started as an experiment to see how my Threads feed would look like on Mastodon and ended with me finding experiences that went above and beyond my expectations.
 ---
 

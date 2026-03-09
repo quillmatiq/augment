@@ -1,7 +1,14 @@
 ---
 title: Google Danced - Will Apple?
 pubDate: 2024-05-24T19:46:01.000Z
-tags: generative-ai, google gemini, apple, wwdc, chatgpt, openai, google
+tags:
+  - generative-ai
+  - google gemini
+  - apple
+  - wwdc
+  - chatgpt
+  - openai
+  - google
 description: Boy, did they make Google dance.
 ---
 

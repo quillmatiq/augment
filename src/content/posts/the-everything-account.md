@@ -2,7 +2,15 @@
 title: The Everything Account
 pubDate: 2026-02-04T18:57:50.000Z
 image: /assets/the-everything-account.jpg
-tags: at protocol, atmosphere, atproto, bluesky, open social web, social media, social web, blacksky
+tags:
+  - at protocol
+  - atmosphere
+  - atproto
+  - bluesky
+  - open social web
+  - social media
+  - social web
+  - blacksky
 ---
 
 I've been thinking a lot about our accounts lately. We all have an ever-growing pile of digital identities scattered across the web, many forgotten after a brief stint with a random service we found in an app store.

@@ -1,7 +1,8 @@
 ---
 title: Erasure and Slop - Human-Generated Content #4
 pubDate: 2024-07-03T17:07:47.000Z
-tags: human generated content
+tags:
+  - human generated content
 description: Human Generated Content, Issue 4
 ---
 
