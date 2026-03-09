@@ -106,8 +106,8 @@ importers:
         specifier: ^0.14.1
         version: 0.14.1
       sequoia-cli:
-        specifier: ^0.4.0
-        version: 0.4.0(typescript@5.9.3)
+        specifier: ^0.5.0
+        version: 0.5.0(typescript@5.9.3)
       tsx:
         specifier: ^4.21.0
         version: 4.21.0
@@ -3832,8 +3832,8 @@ packages:
     engines: {node: '>=10'}
     hasBin: true
 
-  sequoia-cli@0.4.0:
-    resolution: {integrity: sha512-BGtmN0c4oGa+EKxHZQQT51+TD8WrJcmDvhZFM5cgkYiVNKgb8hYF8GQaHyw5jMgnofRhnm4kZmjv4+eTkhvXLA==}
+  sequoia-cli@0.5.0:
+    resolution: {integrity: sha512-tZ9VrMLiFAJyXB7fJEbtzfr5q6B3noTpTMxKCAiTQ1LJN+iC3l6yZhSAuSZvoXVEPlp41473XZIg3RW0ul9Q+A==}
     hasBin: true
     peerDependencies:
       typescript: ^5
@@ -9056,16 +9056,18 @@ snapshots:
 
   semver@7.7.4: {}
 
-  sequoia-cli@0.4.0(typescript@5.9.3):
+  sequoia-cli@0.5.0(typescript@5.9.3):
     dependencies:
       '@atproto/api': 0.18.21
       '@atproto/oauth-client-node': 0.3.17
       '@clack/prompts': 1.1.0
       cmd-ts: 0.14.3
       glob: 13.0.6
+      js-yaml: 4.1.1
       mime-types: 2.1.35
       minimatch: 10.2.4
       open: 11.0.0
+      smol-toml: 1.6.0
       typescript: 5.9.3
     transitivePeerDependencies:
       - supports-color
