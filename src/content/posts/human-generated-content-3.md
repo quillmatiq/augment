@@ -2,6 +2,7 @@
 title: Human-Generated Content 3
 pubDate: 2024-06-20T18:39:10.000Z
 tags: human generated content, activitypub, apple, fediverse, generative-ai, social media, elonmusk
+atUri: "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgnqrf2mcc2m"
 ---
 
 > "My goal for the next issue is to not talk about the Fediverse."

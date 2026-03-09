@@ -3,6 +3,7 @@ title: The Fediverse and Front Porches - Human-Generated Content #6
 pubDate: 2024-08-14T18:46:51.000Z
 tags: human generated content, activitypub, creator economy, fediverse, ghost, substack, mastodon, social media, flipboard
 description: Human Generated Content, Issue 6
+atUri: "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgnqre4t6c2m"
 ---
 
 Hi there!

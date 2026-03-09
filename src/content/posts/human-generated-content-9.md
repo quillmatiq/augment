@@ -2,6 +2,7 @@
 title: The Vibes Are Insecure - Human Generated Content #9
 pubDate: 2025-06-01T16:15:40.000Z
 tags: generative-ai, llm, vibe coding, human generated content, newsletter, google i/o, bluesky
+atUri: "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgnqrczff22m"
 ---
 
 Hey there! It's good to be back on the blog. 

@@ -2,6 +2,7 @@
 title: Escaping the Rigged Internet - Human-Generated Content #7
 pubDate: 2024-08-28T18:40:39.000Z
 tags: human generated content, activitypub, creator economy, fediverse, ghost, flipboard, mastodon, llm, generative-ai, chatgpt, openai, social media, threads, youtube
+atUri: "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgnqrdwmwk2m"
 ---
 
 > "User-generated content continues to be tremendously undervalued by the platforms that distribute user-generated content" - John Green
