@@ -131,6 +131,16 @@
       "atUri": "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgoojm7r2c2m",
       "lastPublished": "2026-03-10T05:52:16.087Z",
       "slug": "this-is-augment"
+    },
+    "src/content/posts/augments-atmospheric-home.md": {
+      "contentHash": "4cd9a498c600cdaafcd84da229330cc29c4c2eb9b229135890a11a785f9a5808",
+      "atUri": "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgq7gly5sk2m",
+      "lastPublished": "2026-03-10T20:27:29.797Z",
+      "slug": "augments-atmospheric-home",
+      "bskyPostRef": {
+        "uri": "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/app.bsky.feed.post/3mgq7gmfx7k2m",
+        "cid": "bafyreif35t7t3px4csphdfjsyrtfdzblhduelvm475ks5h43bxchdtuyce"
+      }
     }
   }
 }

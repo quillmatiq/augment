@@ -11,6 +11,7 @@ tags:
   - social media
   - social web
   - blacksky
+atUri: "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgq7gly5sk2m"
 ---
 We made it! augment has officially moved over to a self-hosted site, and I'm so excited to tell you all about it.
 
