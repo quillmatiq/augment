@@ -55,6 +55,9 @@ const backupImage = `/open-graph/${postSlug}.png`
         <article class="content">
           <slot />
         </article>
+        <h2>Comments</h2>
+        <sequoia-comments />
+        <script>import '@/components/widgets/sequoia-comments.js'</script>
       </div>
     </main>
     <ImageOptimizer />

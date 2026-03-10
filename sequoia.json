@@ -12,5 +12,8 @@
   },
   "bluesky": {
     "enabled": true
+  },
+  "ui": {
+    "components": "src/components/widgets"
   }
 }
