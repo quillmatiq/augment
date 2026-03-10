@@ -1,6 +1,7 @@
 ---
 title: I'm moving 🚚
 pubDate: 2026-02-25
+atUri: "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgoojg324s2m"
 ---
 Well, not me, really. This blog is moving.
 

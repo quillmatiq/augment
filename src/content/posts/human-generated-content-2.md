@@ -12,6 +12,7 @@ tags:
   - openai
   - llm
 description: Publishers are seeing two very different futures for their businesses. Is the future of media aggregated and summarized or is it direct-to-audience?
+atUri: "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgoojkhfdk2m"
 ---
 
 Hello, again! 

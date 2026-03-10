@@ -27,5 +27,8 @@ pnpm-debug.log*
 # Netlify build output
 .netlify/
 
+# Sequoia state (managed by Netlify cache, not git)
+.sequoia-state.json
+
 *.tsbuildinfo
 

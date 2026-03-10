@@ -9,6 +9,7 @@ tags:
   - generative-ai
   - social media
   - elonmusk
+atUri: "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgoojkbmrc2m"
 ---
 
 > "My goal for the next issue is to not talk about the Fediverse."

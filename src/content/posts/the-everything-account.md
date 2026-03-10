@@ -11,6 +11,7 @@ tags:
   - social media
   - social web
   - blacksky
+atUri: "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgoojh3sxc2m"
 ---
 
 I've been thinking a lot about our accounts lately. We all have an ever-growing pile of digital identities scattered across the web, many forgotten after a brief stint with a random service we found in an app store.

@@ -1,114 +1,136 @@
 {
   "posts": {
     "src/content/posts/im-moving.md": {
-      "contentHash": "1bf125aff393219998a2fcf23e76d97363b45fb052603ff75476a24ef436418d",
-      "atUri": "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgnro2hryc2m",
-      "lastPublished": "2026-02-25T00:00:00.000Z"
+      "contentHash": "4a702f3f4abed0266e2e3f086f8e89bc2af75c093608f6374f8445cd47732c72",
+      "atUri": "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgoojg324s2m",
+      "lastPublished": "2026-03-10T05:52:09.947Z",
+      "slug": "im-moving"
     },
     "src/content/posts/the-everything-account.md": {
-      "contentHash": "121fbd9b04ff62f91407b0e47f3633b39b890ace3521f2f4ff1aef8d989066a1",
-      "atUri": "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgnro35q522m",
-      "lastPublished": "2026-02-04T18:57:50.000Z"
+      "contentHash": "a90f06cb351b6fd9e3caedd9bcb27b72cdb320f39afc622d327d1e091a350fe9",
+      "atUri": "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgoojh3sxc2m",
+      "lastPublished": "2026-03-10T05:52:10.773Z",
+      "slug": "the-everything-account"
     },
     "src/content/posts/but-first-interoperability.md": {
-      "contentHash": "ba06883ed00a5de9370b617d8a44b955f1cbcf8730ddb068bf8b84d11c97ce38",
-      "atUri": "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgnro3efys2m",
-      "lastPublished": "2025-06-13T19:08:01.000Z"
+      "contentHash": "a4bebdbd6f2381aa4532b64a03c725f8cdf6114bc49ae0ca8826e6be6813aa75",
+      "atUri": "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgoojhe6js2m",
+      "lastPublished": "2026-03-10T05:52:11.022Z",
+      "slug": "but-first-interoperability"
     },
     "src/content/posts/human-generated-content-9.md": {
-      "contentHash": "ab689af9039f3fad619b6699ad4139df5d0a6ac92a274b4a42df4a978253f382",
-      "atUri": "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgnro3kmak2m",
-      "lastPublished": "2025-06-01T16:15:40.000Z"
+      "contentHash": "d102a67a0d33faae7f5ea666c9223267bf34c990db56821cb077e450158b42d8",
+      "atUri": "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgoojhlkuc2m",
+      "lastPublished": "2026-03-10T05:52:11.378Z",
+      "slug": "human-generated-content-9"
     },
     "src/content/posts/bridges-the-last-network-effect.md": {
-      "contentHash": "2fb72ca3490de6439d14fba9d2badfc8e300e106c90e4c707e93925e39fe1f3d",
-      "atUri": "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgnro3qxek2m",
-      "lastPublished": "2024-11-08T20:48:47.000Z"
+      "contentHash": "870f390ce6d4211bb4c3d9d506f41a1145f37490576c16865f1a9723416ff84e",
+      "atUri": "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgoojhwqbs2m",
+      "lastPublished": "2026-03-10T05:52:11.787Z",
+      "slug": "bridges-the-last-network-effect"
     },
     "src/content/posts/human-generated-content-8.md": {
-      "contentHash": "2ca9829153cd83430ddef32676f2919658373dac77353b3ff5d5bd5a37e1fbf3",
-      "atUri": "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgnro3zfus2m",
-      "lastPublished": "2024-10-25T20:02:59.000Z"
+      "contentHash": "c853bf33e972887c68056d0e99613ca07cc15cc067a01a02ba7681fd3e8f1aef",
+      "atUri": "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgoojicyuc2m",
+      "lastPublished": "2026-03-10T05:52:11.996Z",
+      "slug": "human-generated-content-8"
     },
     "src/content/posts/a-quick-update.md": {
-      "contentHash": "8ea1574975e709261087a9fd3896ebfa4ff22817d70fa8ffb2dbf53a870ed3be",
-      "atUri": "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgnro4a7nk2m",
-      "lastPublished": "2024-09-30T22:17:49.000Z"
+      "contentHash": "3f05a1693946dee9ea645e9a4b81c10a2eea4fea984e6a02256586cc54b51289",
+      "atUri": "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgoojijgw22m",
+      "lastPublished": "2026-03-10T05:52:12.372Z",
+      "slug": "a-quick-update"
     },
     "src/content/posts/human-generated-content-7.md": {
-      "contentHash": "792a2703b288f68e56ac7e96eddb9cc334854e2df0640d34b31f67334ea7c4a5",
-      "atUri": "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgnro4glqs2m",
-      "lastPublished": "2024-08-28T18:40:39.000Z"
+      "contentHash": "13058d2c71e68714b32bbaf4c378037f244fbea7ebcada54190614640f7c4d9e",
+      "atUri": "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgoojixad22m",
+      "lastPublished": "2026-03-10T05:52:12.811Z",
+      "slug": "human-generated-content-7"
     },
     "src/content/posts/human-generated-content-6.md": {
-      "contentHash": "5fce9aacf512749742d0ee77933acfd879e99a5a24ae535bf66e5e989ddee4ec",
-      "atUri": "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgnro4krk22m",
-      "lastPublished": "2024-08-14T18:46:51.000Z"
+      "contentHash": "4974c6df50a270bc116f4de07d76995adcc2a96d0f6287791327dc721f4de4b6",
+      "atUri": "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgoojjccss2m",
+      "lastPublished": "2026-03-10T05:52:13.016Z",
+      "slug": "human-generated-content-6"
     },
     "src/content/posts/human-generated-content-5.md": {
-      "contentHash": "548971d7948b6bfa97cfba655e4b2cdfd023ada0a04c11711e714b7ba5056222",
-      "atUri": "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgnro4p56s2m",
-      "lastPublished": "2024-07-18T18:47:48.000Z"
+      "contentHash": "74381a7b04808e8263577115f7ccd370e5f75720349c1bf6616473b67a43d40d",
+      "atUri": "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgoojjkpek2m",
+      "lastPublished": "2026-03-10T05:52:13.425Z",
+      "slug": "human-generated-content-5"
     },
     "src/content/posts/the-threads-creator-paradox.md": {
-      "contentHash": "106a76ac486de625db8bf7bafc32ce3291ed2bb06c879f536eb5284764801819",
-      "atUri": "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgnro4tcy22m",
-      "lastPublished": "2024-07-12T18:45:41.000Z"
+      "contentHash": "ffc1fbedde6596018a4a06e99234554a4141275ec2258b356aa8cbb6dc2c12f2",
+      "atUri": "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgoojjuxik2m",
+      "lastPublished": "2026-03-10T05:52:13.630Z",
+      "slug": "the-threads-creator-paradox"
     },
     "src/content/posts/human-generated-content-4.md": {
-      "contentHash": "dca2b868ec6eaf7adb6f398f799987b52b3c232ce66cfdbc03f05817a63451d1",
-      "atUri": "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgnro4xbwk2m",
-      "lastPublished": "2024-07-03T17:07:47.000Z"
+      "contentHash": "96803c6ee74f20f6b5e03e34fed236232e47e233d951c97ff1765013d84f13a2",
+      "atUri": "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgoojk3odk2m",
+      "lastPublished": "2026-03-10T05:52:13.826Z",
+      "slug": "human-generated-content-4"
     },
     "src/content/posts/human-generated-content-3.md": {
-      "contentHash": "365c636742c1213395114d9dfb195f9f5e70fe2163ff221fbaae57884f388545",
-      "atUri": "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgnro53buc2m",
-      "lastPublished": "2024-06-20T18:39:10.000Z"
+      "contentHash": "3c46e003f9afb171fdcb57c6cd7ca5755a8f286e73a7730cf35d8618e4ca7a47",
+      "atUri": "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgoojkbmrc2m",
+      "lastPublished": "2026-03-10T05:52:14.020Z",
+      "slug": "human-generated-content-3"
     },
     "src/content/posts/human-generated-content-2.md": {
-      "contentHash": "d1c5b6ae8999e612588ef3ce84621d1d99e4a9ebb49294d5fde4b3748b9579c6",
-      "atUri": "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgnro57fp22m",
-      "lastPublished": "2024-06-06T18:37:46.000Z"
+      "contentHash": "71688b20b4c2a7f88a3b4c22a73a98a95b05cb53c5ab587bfd83617d353bca61",
+      "atUri": "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgoojkhfdk2m",
+      "lastPublished": "2026-03-10T05:52:14.244Z",
+      "slug": "human-generated-content-2"
     },
     "src/content/posts/patreon-fediverse.md": {
-      "contentHash": "26c2782e7dc3bc98167530a5d47794afbaac55475cc7ba086349f0cd72092642",
-      "atUri": "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgnro5hrbk2m",
-      "lastPublished": "2024-06-03T20:31:55.000Z"
+      "contentHash": "eddcecab5735188201d3a5ea03cc748f50c90181408b5d3d7c56c25e4e7ce2ca",
+      "atUri": "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgoojknzas2m",
+      "lastPublished": "2026-03-10T05:52:14.427Z",
+      "slug": "patreon-fediverse"
     },
     "src/content/posts/google-danced-will-apple.md": {
-      "contentHash": "fee5575a7390689d3e25da16ef09008a5812a7f454f9760f1af01d6859fab695",
-      "atUri": "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgnro5q5tc2m",
-      "lastPublished": "2024-05-24T19:46:01.000Z"
+      "contentHash": "0664b3825c8a78709d2a9f193aa0dfba85d71543c923759f88f8668c4c109ce1",
+      "atUri": "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgoojkth3c2m",
+      "lastPublished": "2026-03-10T05:52:14.611Z",
+      "slug": "google-danced-will-apple"
     },
     "src/content/posts/human-generated-content-1.md": {
-      "contentHash": "be24e2d28da7ff1887d7bc39c67b4e839631ef179a5447bd102f6459367fe168",
-      "atUri": "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgnro5tvx22m",
-      "lastPublished": "2024-05-23T16:43:24.000Z"
+      "contentHash": "c891a9dfa522c3a67d3f74e2fd02369525f5cd5e0441d2c0b0a59f6a78da27c8",
+      "atUri": "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgoojkzigs2m",
+      "lastPublished": "2026-03-10T05:52:14.802Z",
+      "slug": "human-generated-content-1"
     },
     "src/content/posts/ghost-substack-discoverability.md": {
-      "contentHash": "16958facbc596131376738df223f551de4055ed5df976d2c75c125ce66afa75d",
-      "atUri": "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgnro5xtwc2m",
-      "lastPublished": "2024-04-22T22:33:07.000Z"
+      "contentHash": "f8054aad31ba015f2042dbed3ad83d802f29a5fb94718c6ac9822b0738fe5fa8",
+      "atUri": "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgoojl772k2m",
+      "lastPublished": "2026-03-10T05:52:14.995Z",
+      "slug": "ghost-substack-discoverability"
     },
     "src/content/posts/social-siloes-post.md": {
-      "contentHash": "640e1ebe208c9f98949316eb677c217243bb2fb02b0d543fd1f1f29157619af7",
-      "atUri": "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgnro644nc2m",
-      "lastPublished": "2024-04-19T21:36:19.000Z"
+      "contentHash": "c73038d7131c42fa425ba597be030c0d40c18867e4bf7c58377f02fea7ad0f21",
+      "atUri": "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgoojlgqbc2m",
+      "lastPublished": "2026-03-10T05:52:15.269Z",
+      "slug": "social-siloes-post"
     },
     "src/content/posts/threads-on-mastodon.md": {
-      "contentHash": "add66e515a7a8367683125cd92150b3fa7176f5bdf328481fa17245d8080359a",
-      "atUri": "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgnro67ur22m",
-      "lastPublished": "2024-04-10T19:15:08.000Z"
+      "contentHash": "3a990b9f78400a678bdca582fe5af7ee8ac47a4a13f09914bcd80fb3a0a6295f",
+      "atUri": "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgoojlpmh22m",
+      "lastPublished": "2026-03-10T05:52:15.677Z",
+      "slug": "threads-on-mastodon"
     },
     "src/content/posts/pov-the-ray-ban-meta-glasses.md": {
-      "contentHash": "4cec558b58e889cdebca69b7bd22a1bab5b40103eff8cd860e2cba93428250a1",
-      "atUri": "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgnro6fpbs2m",
-      "lastPublished": "2024-03-08T16:45:55.000Z"
+      "contentHash": "3d6b157c92fc8dc031fae2922f136a66499e5a854179d67526bdd6af1b049c32",
+      "atUri": "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgoojlzyi22m",
+      "lastPublished": "2026-03-10T05:52:15.882Z",
+      "slug": "pov-the-ray-ban-meta-glasses"
     },
     "src/content/posts/this-is-augment.md": {
-      "contentHash": "a1e869970faaf02b5a11462295419fb62de653e70b2d5e4765b09fb2961b6078",
-      "atUri": "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgnro6jmbs2m",
-      "lastPublished": "2024-03-01T21:38:28.000Z"
+      "contentHash": "fb77bd5d6220fc9f5b742187a538c9da5292c2b85116a361bca24bdfb01c99ad",
+      "atUri": "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgoojm7r2c2m",
+      "lastPublished": "2026-03-10T05:52:16.087Z",
+      "slug": "this-is-augment"
     }
   }
 }

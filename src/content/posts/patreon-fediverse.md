@@ -9,6 +9,7 @@ tags:
   - social media
   - creator economy
 description: Patreon needs to become Threads before Threads become Patreon.
+atUri: "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgoojknzas2m"
 ---
 
 There's a famous quote by Reed Hastings, former CEO of Netflix, that always sticks with me:

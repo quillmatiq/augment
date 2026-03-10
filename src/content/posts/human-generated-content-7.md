@@ -16,6 +16,7 @@ tags:
   - social media
   - threads
   - youtube
+atUri: "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgoojixad22m"
 ---
 
 > "User-generated content continues to be tremendously undervalued by the platforms that distribute user-generated content" - John Green

@@ -10,6 +10,7 @@ tags:
   - openai
   - google
 description: Boy, did they make Google dance.
+atUri: "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgoojkth3c2m"
 ---
 
 ![](./_assets/apple-technologic-4.png)Screencap of Apple's [Technologic iPod Ad](https://www.youtube.com/watch?v=raXZelsYxKk) from 2004

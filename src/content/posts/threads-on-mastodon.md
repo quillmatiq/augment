@@ -9,6 +9,7 @@ tags:
   - fediverse
   - phanpy
 description: This is my journey that started as an experiment to see how my Threads feed would look like on Mastodon and ended with me finding experiences that went above and beyond my expectations.
+atUri: "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgoojlpmh22m"
 ---
 
 Last month, Meta's Threads took its [first step into the Fediverse](https://engineering.fb.com/2024/03/21/networking-traffic/threads-has-entered-the-fediverse/), a promise they made to users at launch. While I don't want to dive too far into the technology, which is something I will do in a future post, this basically means I can follow Threads users that opt-in to Fediverse integration through my Mastodon account. 

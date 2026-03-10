@@ -10,6 +10,7 @@ tags:
   - openai
   - fediverse
 description: Human Generated Content, Issue 5
+atUri: "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgoojjkpek2m"
 ---
 
 Hello, again!

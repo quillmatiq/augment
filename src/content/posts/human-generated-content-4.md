@@ -4,6 +4,7 @@ pubDate: 2024-07-03T17:07:47.000Z
 tags:
   - human generated content
 description: Human Generated Content, Issue 4
+atUri: "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgoojk3odk2m"
 ---
 
 On June 24th, Paramount Global announced that it's [shutting down MTVNews.com](https://variety.com/2024/digital/news/mtv-news-website-archives-pulled-offline-1236047163/), erasing over two decades of cultural history recorded by people passionate about preserving important cultural moments through their crucial journalism.

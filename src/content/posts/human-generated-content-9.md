@@ -9,6 +9,7 @@ tags:
   - newsletter
   - google i/o
   - bluesky
+atUri: "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgoojhlkuc2m"
 ---
 
 Hey there! It's good to be back on the blog. 

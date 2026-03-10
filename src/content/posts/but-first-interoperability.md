@@ -12,6 +12,7 @@ tags:
   - open social web
   - social web
   - threads
+atUri: "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mgoojhe6js2m"
 ---
 
 ![](./_assets/20th_Avenue_NE_Bridge-_Seattle-_1914.jpg)20th Avenue NE Bridge (Ravenna Park Bridge), Seattle, WA, U.S., 1914, © [Seattle Municipal Archives](https://www.flickr.com/people/24256351@N04)
