@@ -696,14 +696,12 @@ class SequoiaComments extends BaseElement {
 			// Check if there are any replies
 			const replies = thread.replies?.filter(isThreadViewPost) ?? [];
 			if (replies.length === 0) {
-				this.state = { type: "empty", postUrl };
-				this.state = { type: "empty", blackskyPostUrl };
+				this.state = { type: "empty", postUrl, blackskyPostUrl };
 				this.render();
 				return;
 			}
 
-			this.state = { type: "loaded", thread, postUrl };
-			this.state = { type: "loaded", thread, blackskyPostUrl };
+			this.state = { type: "loaded", thread, postUrl, blackskyPostUrl };
 			this.render();
 		} catch (error) {
 			const message =
