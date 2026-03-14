@@ -31,6 +31,7 @@ export interface BaseHeadProps {
   title: string
   description: string
   ogImage?: string
+  atUri?: string
 }
 
 // ImageOptimizer component props interface

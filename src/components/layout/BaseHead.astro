@@ -7,7 +7,7 @@ import 'katex/dist/katex.min.css'
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site)
 
-const { title, description, ogImage } = Astro.props as BaseHeadProps
+const { title, description, ogImage, atUri } = Astro.props as BaseHeadProps
 const imageUrl = ogImage ? new URL(ogImage, Astro.url) : new URL('/og/chiri-og.png', Astro.url)
 ---
 
@@ -24,6 +24,8 @@ const imageUrl = ogImage ? new URL(ogImage, Astro.url) : new URL('/og/chiri-og.p
 
 <!-- Canonical URL -->
 <link rel="canonical" href={canonicalURL} />
+
+{atUri && <link rel="site.standard.document" href={atUri} />}
 
 <!-- Primary Meta Tags -->
 <title>

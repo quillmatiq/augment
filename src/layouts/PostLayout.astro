@@ -19,7 +19,7 @@ import BaseLayout from '@/layouts/BaseLayout.astro'
 
 import { themeConfig } from '@/config'
 
-const { title, pubDate, readingTime, toc, image} = Astro.props as PostLayoutProps
+const { title, pubDate, readingTime, toc, image, atUri} = Astro.props as PostLayoutProps
 
 const postSlug = Astro.url.pathname.split('/').filter(Boolean).pop() || ''
 const backupImage = `/open-graph/${postSlug}.png`
@@ -31,6 +31,7 @@ const backupImage = `/open-graph/${postSlug}.png`
     description={themeConfig.site.description}
     ogImage={image ? image : backupImage}
     slot="head"
+    atUri={atUri}
   />
   <div class="post-container">
     <main>
