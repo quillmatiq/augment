@@ -12,6 +12,7 @@ tags:
   - social media
   - social web
   - blacksky
+atUri: "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mifcugitgl2m"
 ---
 Last weekend, I was at the second annual [AtmosphereConf](https://atmosphereconf.org/) among 300-some-odd of the kindest people I think I've ever met in tech/tech-adjacent spaces. I wanted to capture some of my emotions as I left the space on Monday, so here's a peek into my experience.
 

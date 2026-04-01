@@ -141,6 +141,16 @@
         "uri": "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/app.bsky.feed.post/3mgq7gmfx7k2m",
         "cid": "bafyreif35t7t3px4csphdfjsyrtfdzblhduelvm475ks5h43bxchdtuyce"
       }
+    },
+    "src/content/posts/the-joy-of-atmosphereconf.md": {
+      "contentHash": "4da6ed16983971229d69d44128e003716a2f2b88d03cfd831aa33dff5edbd2be",
+      "atUri": "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/site.standard.document/3mifcugitgl2m",
+      "lastPublished": "2026-03-31T23:20:00.597Z",
+      "slug": "the-joy-of-atmosphereconf",
+      "bskyPostRef": {
+        "uri": "at://did:plc:xgvzy7ni6ig6ievcbls5jaxe/app.bsky.feed.post/3mifcugqrdl2m",
+        "cid": "bafyreihme7zab2lctr7nw57qzilsm45rjks33iegdr3feoojxqvdeh5lb4"
+      }
     }
   }
 }
