@@ -51,6 +51,10 @@ const backupImage = `/open-graph/${postSlug}.png`
                 </span>
               )
             }
+            <span class="share-disperse">
+              <span class="separator">·</span>
+              <a href={`javascript:(function(){window.open('https://disperse.social/share?url='+encodeURIComponent(location.href),'_blank','width=540,height=800');})()`}>Share with Disperse</a>
+            </span>
           </div>
         </div>
         <article class="content">
@@ -83,5 +87,11 @@ const backupImage = `/open-graph/${postSlug}.png`
 
   .post-container main {
     flex: 1;
+  }
+
+  .share-disperse {
+    margin-left: 0.5rem;
+    opacity: 1;
+    color: var(--text-primary);
   }
 </style>
